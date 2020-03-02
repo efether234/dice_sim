@@ -1,6 +1,6 @@
 import random
 import math
-class Die():
+class Die:
     """
     A die object.
 
